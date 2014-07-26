@@ -1,0 +1,11 @@
+//
+//			RAILS:first_app\		l o c a l . d a t
+//
+//
+// Revisions:
+//
+//	25 Jul 14	Created by C. A. Snow.
+
+
+
+run		rails server
